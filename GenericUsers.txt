@@ -1,0 +1,83 @@
+﻿Orchestrator
+-----------------------------
+ee\autoteam.admin   Neverend1ng!  dceuipath04.ger.win.int.kn   Joann@090
+-----------------------------
+BEG
+-----------------------------
+ee\au.beg_dev01 – S3cr3td3v01!
+ee\au.beg_dev02 – S3cr3td3v02!    - DEW24248.ger.win.int.kn
+ee\au.beg_dev03 – S3cr3td3v03!    - DEW24280.ger.win.int.kn
+ee\au.beg_dev04 – S3cr3td3v04!    - DEW24249.ee.win.int.kn
+ee\au.beg_dev05 – S3cr3td3v05!    - DEW24250.ger.win.int.kn
+ee\au.beg_dev06 – S3cr3td3v06!
+ee\au.beg_dev07 – S3cr3td3v07! [Deactivated (Ask BEG IT to activate)]
+ee\au.beg_dev08 – S3cr3td3v08! [Deactivated (Ask BEG IT to activate)]
+ee\au.beg_dev09 – S3cr3td3v09!
+ee\au.beg_dev10 – S3cr3td3v10!    - DEW24252.ee.win.int.kn
+
+ee\au.beg_prod01 – P40duct10n!    - DEW24251.ger.win.int.kn, DEW24281.ger.win.int.kn, DEW24282.ger.win.int.kn, DEW24327.ee.win.int.kn, DEW24330.ee.win.int.kn, DEW24331.ee.win.int.kn, DEW24332.ee.win.int.kn, DEW24335.ee.win.int.kn, DEW24360.ee.win.int.kn, DEW24361.ee.win.int.kn, DEW24362.ee.win.int.kn, DEW24326.ee.win.int.kn, DEW24333.ee.win.int.kn, DEW24334.ee.win.int.kn, DEW24323.ee.win.int.kn, DEW24324.ee.win.int.kn, DEW24325.ee.win.int.kn
+DEW24378.ee.win.int.kn, DEW24363.ee.win.int.kn
+
+ee\au.beg_prod02 - P40duct10n1! [Deactivated (Ask BEG IT to activate)]           
+ee\aa.seafreight - belgrade01
+
+-----------------------------
+USA
+-----------------------------
+usa\au.her_dev01 - ky349FK1       - W10UIUPTN200S.usa.win.int.kn
+usa\au.her_dev02 - AeU3eOUN       - W10UIUPTN201S.usa.win.int.kn
+usa\au.her_dev03 - fJaK7USq       - W10UIUPTN105S.usa.win.int.kn
+usa\au.her_dev04 - 3D8exEMp       - W10AAUPTN100S.usa.win.int.kn
+usa\au.her_dev05 - tNNApx8Q
+usa\au.her_dev06 - n8DpQC8K
+usa\au.her_dev07 - f7JdKZcVdce
+usa\au.her_dev08 - Tdma0QZH
+usa\au.her_dev09 - QzG85bi3
+usa\au.her_dev10 - ZJzesd2F
+
+usa\au.her_prod01 - aN91JMpL      - W10UIUPTN100S.usa.win.int.kn, W10UIUPTN101S.usa.win.int.kn, W10UIUPTN102S.usa.win.int.kn, W10AAUPTN200S.usa.win.int.kn, W10UIUPTN103S.usa.win.int.kn, W10UIUPTN104S.usa.win.int.kn, W10UIUPTN106S.usa.win.int.kn, W10AAUPTN106S.usa.win.int.kn, W10AAUPTN107S.usa.win.int.kn, W10AAUPTN108S.usa.win.int.kn, W10GLAUPTN100S.usa.win.int.kn, W10GLAUPTN200S.usa.win.int.kn, W10GLAUPTN300S.usa.win.int.kn, W10GLAUPTN400S.usa.win.int.kn, W10GLAUPTN500S.usa.win.int.kn,w10aauptn201s.usa.win.int.kn, w10aauptn202s.usa.win.int.kn, w10aauptn203s.usa.win.int.kn, w10aauptn204s.usa.win.int.kn,w10aauptn205s.usa.win.int.kn.
+
+
+
+-----------------------------
+-----------------------------
+-----------------------------
+ACCESA (Deprecated)
+-----------------------------
+ee\au.accesa_dev01 – W3lc0m333!
+ee\au.accesa_dev02 – W3lc0m333!
+ee\au.accesa_dev03 - Patrolne$ap3 - DEW24283.ger.win.int.kn
+ee\au.accesa_dev04 - Um13um118	  - DEW24284.ger.win.int.kn
+
+ee\au.accesa_prod01 - D4g1he!!
+
+Eliminated:
+DEW24150.ee.win.int.kn (win7)
+DEW24151.ger.win.int.kn (win7)
+DEW24152.ger.win.int.kn (win7)
+DEW24153.ger.win.int.kn (win7)
+DEW24154.ger.win.int.kn (win7)
+DEW24264.ger.win.int.kn (win7)
+DEW24265.ger.win.int.kn (win7)
+
+
+-------------------------------
+
+KN SHARED SERVICE CENTER S.A = 0004582
+SERVICE TAG 19XH7S2   MFG YR 2018   EXPRESS SERVICE CODE 2777208482
+
+
+AUTOMATION ANYWHERE
+user: usa\automation.anywhere
+
+password: @ut0@ny 
+
+  *********************************
+  *msautuptn101s.usa.win.int.kn   *
+  *Username:  msautuptn101s\auto  *
+  *Password:   @uto1234#          *
+  *********************************
+  Buw*@5SmP# 
+
+
+
